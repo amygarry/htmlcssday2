@@ -1,0 +1,22 @@
+body {
+    margin: 0%;
+    background-color: lightgray;
+}
+header {
+    height:120px;
+    width: 100%;
+    background-color:gray;
+}
+div{
+    background-color: 
+    white;
+    margin-left: 15%;
+    margin-right: 15%;
+    height: 600px;
+}
+footer {
+    background-color: black;
+    height: 90px;
+    margin-left: 15%;
+    margin-right: 15%;
+}
